@@ -1,5 +1,8 @@
 public class ReverseString {
     public static void main(String[] args) {
+        // Reverse a String
+        // diff b/w String and StringBuffer
+        // do we have a reverse Function in String?
         String s = "Selenium";
         int len = s.length();
         String rev = "";
